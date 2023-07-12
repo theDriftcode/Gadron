@@ -16,3 +16,27 @@ Enviorment Setting:
 
 
 
+Brain Storm Ideas:
+
+Your friend is Locked in a room and your main goal is to help your friend escape. Through a texting messaging base you are are helping your friend navigate through the building gathering clues and looking for items to help them progress.
+There will be keys and codes, safes locked door etc and random events. The Rooms will randomize each round. Depending on difficulty there will be multiple stories. There will be kitchen, room, Bathrooms, living rooms. Etc.
+
+
+for now Room Layout:
+                      
+                    exit
+|-------------|------||------|-------------|           
+|             |              |             |
+|   Bedroom   |              |   Kitchen   |
+|             |              |             |
+|             |              |             |
+|-------------|              |-------------|
+              |              |
+              |   main hall  |
+              |              |
+|-------------|              |-------------|
+|             |              |             |
+|  Bathroom   |              | Living room |
+|             |              |             |
+|             |              |             |
+|-------------|--------------|-------------|
